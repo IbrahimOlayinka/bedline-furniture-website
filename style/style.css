@@ -62,7 +62,7 @@ a {
 */
 header {
     background: var(--ghost-white);
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/footer-banner.jpg) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/hero-bg.jpg) center/cover no-repeat;
 
 }
 
